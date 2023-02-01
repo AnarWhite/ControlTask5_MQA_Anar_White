@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 https://github.com/AnarWhite/task2_git_Anar-White
 =======
 https://github.com/AnarWhite/task2_git_Anar-White.git
 >>>>>>> Module7_Lesson5
+=======
+https://github.com/AnarWhite/task2_git_Anar-White
+>>>>>>> Module7_Lesson9
